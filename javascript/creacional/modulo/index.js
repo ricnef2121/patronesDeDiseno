@@ -49,3 +49,4 @@ resultado.a()
 console.log(resultado.x)
 
 //caso practico modulo revelador
+console.log('revelado r')
